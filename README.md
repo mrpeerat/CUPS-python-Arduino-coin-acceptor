@@ -1,2 +1,2 @@
 # My-Project
-Raspberry pi(python+PHP)+Printer with CUPS
+Raspberry pi(CUPS+python+PHP)+Printer with CUPS
